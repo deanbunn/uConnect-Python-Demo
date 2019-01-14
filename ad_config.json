@@ -1,0 +1,8 @@
+{
+  "AD_Accnt":"ou\\coe-somebody",
+  "DC_Root":"addc1c.ad3.ucdavis.edu",
+  "DC_Child":"oudc1c.ou.ad3.ucdavis.edu",
+  "Path_Root":"DC=ad3,DC=ucdavis,DC=edu",
+  "Path_Child":"DC=ou,DC=ad3,DC=ucdavis,DC=edu",
+  "Path_Dept_OU":"OU=PHYS,OU=Departments,DC=ou,DC=ad3,DC=ucdavis,DC=edu"
+}
